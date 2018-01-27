@@ -75,10 +75,7 @@
                 <div class="beacon"></div>
                 <div class="pulse"></div>
             </div>
-            <p>I live at the tip of <a href="https://en.wikipedia.org/wiki/Africa" target="_blank">Africa</a>
-                in the beautiful city of
-                <a href="http://en.wikipedia.org/wiki/Cape_Town" target="_blank">Cape Town</a>.
-            </p>
+            <p>I live in the beautiful city of <a href="http://en.wikipedia.org/wiki/Cape_Town" target="_blank">Cape Town</a>. at tip of <a href="https://en.wikipedia.org/wiki/Africa" target="_blank">Africa</a>.</p>
         </div>
     </section>
 
@@ -86,8 +83,8 @@
     <section class="professional-work">
         <div class="container">
             <div class="inner-container">
-                <h2>Looking to hire a Software Development?</h2>
-                <p>Hire me via my company directly <a href="https://www.thebillplease.co.za" target="_blank">here</a>.</p>
+                <h2>Looking to hire a Software Developer?</h2>
+                <p>I don't accept direct jobs hires anymore, please hire me via my <a href="https://www.thebillplease.co.za" target="_blank">company</a>.</p>
             </div>
         </div>
     </section>
