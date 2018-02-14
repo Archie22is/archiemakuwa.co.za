@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="google-site-verification" content="RiefrKqYtLvbGplWE-tTXmHK8RZMm9RzKgtRaKRi7tE" />
     <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
     <link id="page_favicon" href="/favicon.ico" rel="icon" type="image/x-icon" />
@@ -26,15 +26,15 @@
                 <img src="images/avataaars.png" alt="Archie Makuwa (https://getavataaars.com)" title="Archie Makuwa (https://getavataaars.com)" />
                 <h1>Hello, my name is:</h1>
                 <h1 style="font-family:unset;">🅰🆁🅲🅷🅸🅴 🅼🅰🅺🆄🆆🅰</h1>
-                <p>I'm Software Developer, Entrepreneur &amp; <a href="http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness#Featured_hacks"
+                <p>I'm Software Developer, Entrepreneur &amp; <a href="//en.wikipedia.org/wiki/Random_Hacks_of_Kindness#Featured_hacks"
                      target="_blank">RHoK(er)</a>.</p>
                 <p>– A founder of <a href="https://www.pebetseholdings.co.za" target="_blank">Pebetse Holdings</a> <br/>
                    – A software developer at <a href="https://www.thebillplease.co.za" alt="_blank">thebillplease/<span style="color:red;">></span></a> <br/>
-                   – A man resurrecting his other long dead close corporation <a href="http://www.aatsol.co.za/" target="_blank">Archie's Advanced Technology Solutions</a> (2007 ~ 2012).</p>
+                   – A man resurrecting his other long dead close corporation <a href="//www.aatsol.co.za/" target="_blank">Archie's Advanced Technology Solutions</a> (2007 ~ 2012).</p>
                 <p>You can connect with me on the following platforms:</p>
                 <ul class="social-icons">
                     <li>
-                        <a href="http://www.linkedin.com/profile/view?id=121157532" target="_blank" title="My LinkedIn Profile">
+                        <a href="//www.linkedin.com/profile/view?id=121157532" target="_blank" title="My LinkedIn Profile">
                             <i class="fa fa-linkedin-square"></i>
                         </a>
                     </li>
@@ -75,7 +75,7 @@
                 <div class="beacon"></div>
                 <div class="pulse"></div>
             </div>
-            <p>I live in the beautiful city of <a href="http://en.wikipedia.org/wiki/Cape_Town" target="_blank">Cape Town</a>. at tip of <a href="https://en.wikipedia.org/wiki/Africa" target="_blank">Africa</a>.</p>
+            <p>I live in the beautiful city of <a href="//en.wikipedia.org/wiki/Cape_Town" target="_blank">Cape Town</a>. at tip of <a href="https://en.wikipedia.org/wiki/Africa" target="_blank">Africa</a>.</p>
         </div>
     </section>
 
